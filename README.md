@@ -1,6 +1,6 @@
-# 🚢 Titanic Dataset Analysis with Data Visualization & Logistic Regression
+# 🚢 Titanic Dataset Analysis with Data Visualization 
 
-This project performs an in-depth analysis of the Titanic dataset using Python, pandas, seaborn, matplotlib, and scikit-learn. It includes data cleaning, exploratory data analysis (EDA), visualization, and a basic logistic regression model for prediction.
+This project performs an in-depth analysis of the Titanic dataset using Python, pandas, seaborn, matplotlib, and scikit-learn. It includes data cleaning, exploratory data analysis (EDA), visualization,
 
 ---
 
